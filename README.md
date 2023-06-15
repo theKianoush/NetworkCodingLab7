@@ -1,0 +1,1 @@
+So my program does not handle duplicates, so there will be duplicate messages at the location15 after we send a second message after doing the move function for the first message. The only problem is when the 2nd message arrives at location15, the location is messed up and will say location7, but you can tell it is a the right port by checking the port number. Thanks!
